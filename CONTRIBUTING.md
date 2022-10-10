@@ -11,6 +11,11 @@
 
 <br>
 
+## Note
+Currently this repo is not fully complete. Therefore, it would be really great if you can generate PRs and issues for preparing this repo.
+Contribution for building folder structure, creating folders for different problems or any enhancement in the documentation are welcomed.
+
+
 ## About our Repo
 1. There are 10 folders in the main repo. These folders have multiple questions related to that topic only.
 2. Inside each folder, there are different folders for each questions.
