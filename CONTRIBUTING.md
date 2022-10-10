@@ -11,7 +11,17 @@
 
 <br>
 
+## About our Repo
+1. There are 10 folders in the main repo. These folders have multiple questions related to that topic only.
+2. Inside each folder, there are different folders for each questions.
+3. Inside each questions folder, there is a Readme file that will help you to understand the questions, and along with that there are multiple folders for different languages.
+4. You have to submit your solution inside these languages folder.
+
+<br>
+
 ## Guidelines to follow while contributing in our project
+* If the solution already exist in the same language in which you want to contribute then kindly choose another question or another language for your contribution.
+* If you think that your solution is more optimized or well fomatted and commented then make a PR for that.
 * Follow the template that we've given while raising an issue or while making a PR
 * Give a brief description about your changes while generating PR
 
