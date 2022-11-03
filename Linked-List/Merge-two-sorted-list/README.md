@@ -7,7 +7,6 @@ Merge the two lists in a one *sorted* list. The list should be made by splicing 
 
 Return the head of the merged linked list.
 
-![img](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
 
 Example-1:  
 
