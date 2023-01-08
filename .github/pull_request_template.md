@@ -1,14 +1,12 @@
 <!--Type in all the issues that has been fixed through this pull request ex : #1 -->
 
-## Fixes Issue
+## Fixes Issue (if any)
 
 This PR fixes the following issues :
 #example
 
 <!--Write down all the changes made-->
-## Changes proposed
-
-Here comes all the changes proposed through this PR
+## Changes proposed (if any)
 
 <!--Check all the boxes which are aplicable to check the box correct follow the following conventions-->
 <!--
@@ -30,4 +28,4 @@ Here comes all the changes proposed through this PR
 
 <!--Add screen shots of the changed output-->
 ## Screenshots 
-Add all the screenshots which support your changes
+Add screenshots to show that your code is correct if you are submitting a solution
